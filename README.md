@@ -24,6 +24,6 @@ To run the ZARA clone project, follow these steps:
 **Homepage**
 This is the homepage , in this homepage we have a navigation bar, on clicking any option on the navigation bar it will navigate to the others pages on websites.
 
-![image](/Users/shubhangisisodia/Desktop/Projects/unit2/Zara/images/homepage.png)
+![image](/Users/shubhangisisodia/Desktop/Projects/unit2/Zara-/images/homepage.png)
 
 
